@@ -7,7 +7,7 @@ It includes small projects like **forms, arrays, conditions, and objects** for p
 ---
 
 ## 🔗 Live Preview  
-👉 [View Portfolio](https://thissdan.github.io/ThissDan-Portfolio/)  
+👉 [View Portfolio](http://127.0.0.1:5501/index.html)  
 
 ---
 
