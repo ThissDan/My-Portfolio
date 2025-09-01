@@ -4,8 +4,6 @@ body {
   padding: 0;
   background:  #0f122a;
 }
-
-
 .contact-container {
   display: flex;
   flex-wrap: wrap;
@@ -14,9 +12,7 @@ body {
   background: #fff;
   box-shadow: 4px 4px 20px rgba(33, 30, 62, 0.844);
   border-radius: 20px;
-
 }
-
 .contact-image {
   flex: 1.5;
   min-width: 300px;
@@ -93,3 +89,4 @@ body {
   }
 
 }
+
